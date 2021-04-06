@@ -1,0 +1,16 @@
+{
+  "name": "assninh",
+  "version": "1.0.0",
+  "description": "hihi",
+  "main": "index.js",
+  "dependencies": {
+    "express-handlebars": "^5.3.0",
+    "handlebars": "^4.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "ninhvvbg",
+  "license": "ISC"
+}
